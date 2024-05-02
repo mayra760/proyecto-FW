@@ -1,0 +1,57 @@
+.row>.col.col-3,
+.bd-example-row .row>[class^="col"] {
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    background-color: rgba(18, 18, 17, 0.01);
+    border: 5px solid rgba(14, 14, 14, 0.01);
+}
+
+
+.titulo{
+   background-color: white;
+   box-shadow: 4px 4px 4px;
+   text-align: center;
+}
+
+.col-md1{
+    background-color: rgb(153, 152, 153);
+    text-align: center;
+    box-shadow: 5px 5px 5px ;
+}
+.col{
+    text-align: center;
+    background-color: rgb(153, 152, 153);
+    box-shadow: 5px 5px 5px;
+}
+.mi-boton{
+   background-color: white;
+   color: black;
+   box-shadow: 5px 5px 5px;
+
+}
+
+
+.titulo-2{
+    text-align: center;
+    background-color: white;
+    box-shadow: 4px 4px 4px;
+}
+
+.titulo-3{
+    background-color: rgb(153, 152, 153);
+    text-align: center;
+    box-shadow: 5px 5px 5px ;
+}
+
+/* ropa deportiva*/
+
+.col-5{
+    border-radius: 5px;
+    background-color: rgb(197, 197, 197);
+    box-shadow: 5PX 5PX 5px;
+}
+
+.container-2{
+    background-color: white;
+    
+}
